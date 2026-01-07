@@ -361,5 +361,105 @@ This repository will grow and evolve:
 **Owner:** Dr. Nazmul Alam
 
 ---
+## Future Repo Structure (need to build rest of the folders):
+
+nazmul-alam-knowledge-base/
+├── README.md (Master guide for entire repo)
+│
+├── 00-core/                           # Shared across ALL projects
+│   ├── cv-complete.md                 # Full CV
+│   ├── cv-summary.md                  # Quick reference version
+│   ├── publications-full-list.md      # All 17 publications
+│   ├── research-impact-metrics.md     # Citations, h-index, etc.
+│   ├── contact-and-links.md           # All professional profiles
+│   └── timeline.md                    # Career timeline at a glance
+│
+├── 01-project-research-hub/           # For Claude Project 1 (SPME Research)
+│   ├── README.md                      # How to use these files
+│   ├── active-collaborations.md       # Sunway, USM details
+│   ├── research-focus-areas.md        # NADES, SPME, green chemistry
+│   ├── grant-opportunities.md         # Malaysian grants list
+│   ├── proposal-templates.md          # Reusable proposal sections
+│   ├── communication-templates.md     # Email templates for collaborators
+│   └── meeting-notes/                 # Folder for ongoing meeting notes
+│       ├── sunway-meetings.md
+│       └── usm-meetings.md
+│
+├── 02-project-content-engine/         # For Claude Project 2 (LinkedIn/Blog)
+│   ├── README.md
+│   ├── topics-master-list.md          # All content ideas (200+)
+│   ├── audience-profiles.md           # Target audiences
+│   ├── story-bank.md                  # Personal stories
+│   ├── content-calendar.md            # Planning & tracking
+│   ├── voice-and-tone.md              # Brand guidelines
+│   ├── key-messages.md                # Core positioning
+│   ├── performance-tracker.md         # Metrics and insights
+│   └── archives/                      # Past successful posts
+│       ├── 2025-01-best-posts.md
+│       └── carousel-templates.md
+│
+├── 03-project-teaching/               # For Claude Project 3 (Teaching/YouTube)
+│   ├── README.md
+│   ├── course-outlines.md             # SPME fundamentals course
+│   ├── video-scripts/                 # YouTube video scripts
+│   │   ├── 01-spme-introduction.md
+│   │   ├── 02-fiber-selection.md
+│   │   └── 03-method-development.md
+│   ├── quiz-bank.md                   # Questions for assessments
+│   ├── lecture-notes.md               # Detailed teaching notes
+│   ├── flipped-classroom-materials.md # Pre-class and in-class activities
+│   ├── student-resources.md           # Handouts, checklists
+│   └── monash-alignment.md            # Specific to Monash pedagogy
+│
+├── 04-experience/                     # Industry/Academic Experience Details
+│   ├── README.md
+│   ├── deciem-experience.md           # Projects, achievements, stories
+│   ├── dalriada-experience.md         # Drug discovery work
+│   ├── uwater loo-phd.md               # PhD research details
+│   ├── industry-insights.md           # General industry learnings
+│   └── regulatory-expertise.md        # FDA, cGMP, GLP knowledge
+│
+├── 05-research/                       # Research Reference Materials
+│   ├── README.md
+│   ├── publication-summaries.md       # Key findings from each paper
+│   ├── spme-expertise.md              # Deep dive on SPME knowledge
+│   ├── nades-knowledge.md             # NADES synthesis, applications
+│   ├── green-chemistry.md             # Green analytical methods
+│   ├── method-validation.md           # ICH Q2, FDA guidelines
+│   └── technical-protocols/           # Detailed protocols
+│       ├── spme-method-development.md
+│       ├── nades-synthesis.md
+│       └── lcms-method-validation.md
+│
+├── 06-malaysian-context/              # Malaysia-Specific Information
+│   ├── README.md
+│   ├── university-profiles.md         # Monash, Sunway, USM, etc.
+│   ├── grant-landscape.md             # FRGS, MRUN, etc.
+│   ├── medicinal-plants.md            # Malaysian traditional medicine
+│   ├── research-priorities.md         # National research agenda
+│   ├── collaboration-opportunities.md # Local partnerships
+│   └── cultural-considerations.md     # Academic culture in Malaysia
+│
+├── 07-job-search/                     # Academic Position Search
+│   ├── README.md
+│   ├── target-positions.md            # Universities and roles
+│   ├── research-statement.md          # Your research vision
+│   ├── teaching-statement.md          # Your teaching philosophy
+│   ├── cover-letter-templates.md      # Customizable templates
+│   ├── interview-prep.md              # Common questions, answers
+│   └── application-tracker.md         # Status of applications
+│
+├── 08-future-projects/                # Placeholder for future Claude projects
+│   ├── README.md
+│   └── ideas.md                       # Future project ideas
+│
+└── 99-templates/                      # Reusable Templates
+    ├── README.md
+    ├── blog-post-template.md
+    ├── linkedin-carousel-template.md
+    ├── linkedin-long-form-template.md
+    ├── proposal-template.md
+    ├── email-template.md
+    └── presentation-template.md
 
 **This is your professional knowledge management system. Use it well!** 🚀
