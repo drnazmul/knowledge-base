@@ -274,11 +274,12 @@ Systematic development and implementation of sustainable analytical methods that
 
 ### **My Contributions**
 
-**From Deciem Experience:**
-- Reduced solvent usage by 90% through SPME implementation
-- Annual cost savings of $50K+ demonstrated
+**From PhD Research Experience:**
+- Developed Aptamer based SPME selective fiber that showed potential to direct analysis without chromatography
+- Huge cost savings can be expected by reducing solvent use and HPLC maintanace cost
 - Trained staff on green analytical practices
 - Maintained regulatory compliance with green methods
+- Computational method optimization saves development time and cost
 
 **Research Publications:**
 - Focus on green extraction methods throughout career
