@@ -5,6 +5,7 @@
 **Created:** January 2025  
 **Status:** COMPLETE & READY TO USE
 
+$$ e = mc^2$$
 ---
 
 ## 🎉 WHAT WE'VE BUILT
