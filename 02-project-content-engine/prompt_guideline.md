@@ -36,3 +36,9 @@ If no decision is visible, say so.
 "can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it, remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover, boost, skyrocketing, opened up, powerful, inquiries, ever-evolving"
 
 ### IMPORTANT: Review your response and ensure no em dashes!
+
+
+###
+For pdf generation:
+
+Generate a professional looking PDF with excellent visual design with ReportLab. Focus on these key aspects: select an appealing color scheme with a primary color and complementary accents that work well together, use proper font sizing and spacing to create visual hierarchy and make content easy to read, incorporate plenty of white space so the document feels clean and uncluttered, style any tables with colors and borders that look polished, add charts or graphics if they enhance the content, and ensure the overall layout is balanced and attractive. The goal is to create a PDF that looks like it was designed by a professional designer with attention to colors typography spacing and visual appeal.
