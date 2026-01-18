@@ -49,3 +49,61 @@ You are an AI assistant specialized in transforming blog posts into clean, simpl
 Ref: https://www.youtube.com/watch?v=DVajNjVSeMA
 
 
+## Hand writeen 
+
+I use three approaches depending on what I’m creating:
+
+Method 1: Brief First
+Generate an outline, then create the image.
+
+Method 2: Remix
+Take a post that performed well and create a new version.
+
+Method 3: Reference Image
+Upload an image you like and recreate the style.
+
+Each method uses a two-step process. First, you create the brief, then you generate the image using the same core prompt.
+
+### The workflow:
+
+Go to Gemini
+
+Ask it to create an infographic brief
+
+Review and edit the brief
+
+Generate the image using the master prompt
+
+Step 1: Generate the Brief
+
+Use this prompt:
+
+Create an infographic brief for [YOUR TOPIC].
+
+Include visual suggestions.
+
+Step 2: Generate the Image
+
+Once you have your brief, use this prompt:
+
+Generate a single image of a physical, hand-drawn infographic on a large whiteboard or notebook page.
+
+Crucial Style Instructions (Read First):
+
+Medium: The image must look like a photograph of a real whiteboard or large paper notepad.
+
+Texture: All elements must look created by hand using colored marker pens (black, blue, red, green) and highlighters (yellow/orange). Lines should be slightly imperfect, wobbly, and have the texture of ink on a surface.
+
+No Digital Fonts: All text, headings, and bullet points must appear handwritten or hand-printed in marker pen.
+
+Layout: Structure the 1080x1350 image as follows:
+
+Use multi-colored markers for emphasis. Keep text large and legible. Make everything look hand-drawn with slight imperfections. Make it look like a photograph of an actual notebook page.
+
+Always include the handwritten text “Follow Charlie Hills AI Content Creator for more helpful content | Repost ♻️” at the bottom of the image, in the same hand-drawn marker style.
+
+Replace [YOUR TOPIC] with your subject in Step 1. Replace [PASTE YOUR BRIEF HERE] with the output from Step 1. Replace my name with yours in the follow CTA.
+
+Ref: https://charliehills.substack.com/p/the-ai-image-hack-taking-over-linkedin?triedRedirect=true
+
+
