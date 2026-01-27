@@ -76,6 +76,8 @@ Generate the image using the master prompt
 
 Step 1: Generate the Brief
 
+🚀 ## Prompt
+
 Use this prompt:
 
 Create an infographic brief for [YOUR TOPIC].
