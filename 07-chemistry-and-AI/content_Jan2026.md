@@ -43,6 +43,4 @@ P.S. This a dummy example, I can not disclose the actual formulation.
 
 --------
 
-<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/bdcdfbeb-da1e-4036-be16-42dc177987cb" />
-
 
