@@ -1,10 +1,51 @@
+## Here is the summary of the prompt chain you used. You can copy and paste this process for future content.
 
-## AI slop
+### Phase 1: The Strategy Brief
+**Goal:** Define the angle and extract value from the source.
 
-You are a reflective editor. Your task is to identify where AI slop enters this text. 
-Read the text below and identify four points where the work should have involved shaping, checking, cutting, or explaining. 
-For each point, note the decision that was made or avoided and explain why its absence or handling might constitute AI slop. 
-If no decision is visible, say so.
+**Prompt:**
+"Generate a slide deck brief based on source [Insert Source Number/Name].
+**Target Audience:** [e.g., Scientists using AI, Lab Managers, PhD Students].
+**Problem:** [e.g., They use AI as a search engine instead of a reasoning tool].
+**Goal:** [e.g., Show them how to use it critically]."
+
+### Phase 2: The Slide Content Generation
+**Goal:** Convert the brief into slide-ready text.
+
+**Prompt:**
+"Create the slide deck content based on the brief you just created.
+**Dimensions:** 1080x1350 pixels (LinkedIn Portrait).
+**Structure:**
+1. Cover Slide (Hook)
+2. Problem Slide (Context)
+3. Solution Slides (Actionable Frameworks)
+4. Summary/CTA Slide
+**Formatting:** Use visual descriptions, headlines, and short bullet points."
+
+### Phase 3: The Distribution
+**Goal:** Create the social media context.
+
+**Prompt:**
+"Create a short LinkedIn caption for the carousel. Include a hook, a summary list, and a question for engagement."
+
+---
+
+### How to Achieve the 1080x1350 Size
+
+You asked how to get the slides in 1080x1350 pixels. As an AI text model, I generate the **content** formatted for that space, but I cannot generate the **image file** itself.
+
+The content I provided in the previous turn includes specific "Design Notes" to ensure the text fits that size.
+
+**To create the actual file, follow these steps:**
+
+**Option A: Canva (Easiest)**
+1.  Open Canva.
+2.  Click "Create a design" > "Custom Size".
+3.  Enter **1080** for Width and **1350** for Height.
+4.  Copy the "Headline" and "Text" from my output into the slides.
+5.  Export as **PDF Standard** for LinkedIn.
+
+  
 
 ## System Instructions
 
